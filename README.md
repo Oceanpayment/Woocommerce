@@ -10,7 +10,7 @@ WordPress is a website creation tool and content management system based on the 
 <h4>Plug-in installation</h4>
 <ol>
     <li>Upload the Oceanpayment-boleto.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment Alipay boleto in the plugin menu.</li>
+    <li>Activate oceanpayment boleto in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
