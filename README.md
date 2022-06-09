@@ -9,8 +9,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-PIX.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment PIX in the plugin menu.</li>
+    <li>Upload the Oceanpayment-Rabbit_LinePay.zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment Rabbit_LinePay in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -25,7 +25,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>PIX Payment</td>
+    <td>Rabbit_LinePay Payment</td>
   </tr>
   <tr>
     <td>Description</td>
