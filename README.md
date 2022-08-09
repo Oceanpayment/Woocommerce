@@ -9,8 +9,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-creditcard.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment credit card in the plugin menu.</li>
+    <li>Upload the Oceanpayment-Alipay.zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment Alipay in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -25,7 +25,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>Credit/Debit Card</td>
+    <td>Alipay</td>
   </tr>
   <tr>
     <td>Description</td>
@@ -48,16 +48,7 @@ WordPress is a website creation tool and content management system based on the 
     <td>Production:production environment;Sandbox:Test environment.</td>
   </tr>
   <tr>
-    <td>Payment Language</td>
-    <td>Supports 24 payment languages, default English (en_US).</td>
-  </tr>
-  <tr>
-    <td>Payment Language</td>
-    <td>Supports 24 payment languages, default English (en_US).</td>
-  </tr>
-  <tr>
-    <td>Payment Logos</td>
-    <td>Enable VISA,Mastercard,Maestro,JCB,American Express,VISA(Electron),Diners Club,Discover,UnionPay payment logo.</td>
+    <td>Pay page Mode</td>
+    <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
   </tr>
 </table>
-
