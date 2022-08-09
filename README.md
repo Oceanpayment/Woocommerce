@@ -51,6 +51,13 @@ WordPress is a website creation tool and content management system based on the 
     <td>Submiturl</td>
     <td>Production:production environment;Sandbox:Test environment.</td>
   </tr>
-  
+  <tr>
+    <td>Payment Language</td>
+    <td>Supports 24 payment languages, default English (en_US).</td>
+  </tr>
+  <tr>
+    <td>Payment Logos</td>
+    <td>Enable VISA,Mastercard,Maestro,JCB,American Express,VISA(Electron),Diners Club,Discover,UnionPay payment logo.</td>
+  </tr>
 </table>
 
