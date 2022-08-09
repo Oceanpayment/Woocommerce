@@ -44,7 +44,7 @@ WordPress is a website creation tool and content management system based on the 
     <td>Provide by Oceanpayment technical support.</td>
   </tr>
   <tr>
-    <td>Public_Key</td>
+    <td>Public Key</td>
     <td>Provide by Oceanpayment technical support.</td>
   </tr>
   <tr>
