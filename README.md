@@ -52,7 +52,7 @@ WordPress is a website creation tool and content management system based on the 
     <td>Production:production environment;Sandbox:Test environment.</td>
   </tr>
   <tr>
-    <td>Payment Language</td>
+    <td>Payment Languages</td>
     <td>Supports 24 payment languages, default English (en_US).</td>
   </tr>
   <tr>
