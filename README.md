@@ -49,7 +49,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Submiturl</td>
-    <td>Production:production environment;Sandbox:Test environment.</td>
+    <td>Production:Production environment;Sandbox:Test environment.</td>
   </tr>
   <tr>
     <td>SSL</td>
