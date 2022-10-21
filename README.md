@@ -44,11 +44,23 @@ WordPress is a website creation tool and content management system based on the 
     <td>Provide by Oceanpayment technical support.</td>
   </tr>
   <tr>
+    <td>Public Key</td>
+    <td>Provide by Oceanpayment technical support.</td>
+  </tr>
+  <tr>
     <td>Submiturl</td>
     <td>Production:production environment;Sandbox:Test environment.</td>
   </tr>
   <tr>
-    <td>Pay page Mode</td>
-    <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
+    <td>SSL</td>
+    <td>https/http,default https.</td>
+  </tr>
+  <tr>
+    <td>Payment Language</td>
+    <td>Accept Payment Language.</td>
+  </tr>
+  <tr>
+    <td>Payment Logos</td>
+    <td>Accept Payment Logos.</td>
   </tr>
 </table>
