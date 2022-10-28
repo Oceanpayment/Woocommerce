@@ -56,15 +56,11 @@ WordPress is a website creation tool and content management system based on the 
     <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
   </tr>
   <tr>
-    <td>SSL</td>
-    <td>https/http,default https.</td>
-  </tr>
-  <tr>
-    <td>Payment Language</td>
-    <td>Accept Payment Language.</td>
-  </tr>
-  <tr>
     <td>Payment Logos</td>
     <td>Accept Payment Logos.</td>
+  </tr>
+  <tr>
+    <td>Write The Logs</td>
+    <td>True/False.</td>
   </tr>
 </table>
