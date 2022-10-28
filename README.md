@@ -52,6 +52,10 @@ WordPress is a website creation tool and content management system based on the 
     <td>Production:Production environment;Sandbox:Test environment.</td>
   </tr>
   <tr>
+    <td>Pay page Mode</td>
+    <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
+  </tr>
+  <tr>
     <td>SSL</td>
     <td>https/http,default https.</td>
   </tr>
