@@ -51,4 +51,8 @@ WordPress is a website creation tool and content management system based on the 
     <td>Pay page Mode</td>
     <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
   </tr>
+    <tr>
+    <td>Write The Logs</td>
+    <td>True/False.</td>
+  </tr>
 </table>
