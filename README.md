@@ -9,8 +9,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-YunShanFu.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment YunShanFu in the plugin menu.</li>
+    <li>Upload the Oceanpayment-Giropay.zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment giropay in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -25,7 +25,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>YunShanFu Payment</td>
+    <td>Giropay Payment</td>
   </tr>
   <tr>
     <td>Description</td>
@@ -51,5 +51,8 @@ WordPress is a website creation tool and content management system based on the 
     <td>Pay page Mode</td>
     <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
   </tr>
+    <tr>
+    <td>Write The Logs</td>
+    <td>True/False.</td>
+  </tr>
 </table>
-
