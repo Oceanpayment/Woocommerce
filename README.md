@@ -9,8 +9,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-Akulaku.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment Akulaku in the plugin menu.</li>
+    <li>Upload the Oceanpayment-Przelewy24.zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment Przelewy24 in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -25,7 +25,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>Akulaku</td>
+    <td>Przelewy24</td>
   </tr>
   <tr>
     <td>Description</td>
