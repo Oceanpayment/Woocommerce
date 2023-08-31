@@ -9,8 +9,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-brcreditcard.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment brcreditcard in the plugin menu.</li>
+    <li>Upload the Oceanpayment-Afterpay.zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment Afterpay in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -25,7 +25,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>BR Credit Card</td>
+    <td>Afterpay</td>
   </tr>
   <tr>
     <td>Description</td>
