@@ -1,10 +1,3 @@
-<h2>Overview</h2>
-<h4>Klarna transaction status response code description:</h4>
-<ol>
-    <li>Success status: payment_details = 80000 and payment_status = -1 (pre-authorization status, authorization or withdrawal can be performed through the pre-auth function). Orders that need to be shipped can be authorized first, and authorization will be revoked if they are not shipped;</li>
-   <li>Pending non-pre-authorization status: payment_details = 80003 and payment_status = -1, (enter Klarna risk control, the payment result can be changed to success or failure for a maximum of 24 hours);</li>
-   <li>Failure status: payment_status = 0.</li>
-</ol>
 
 <h2>WordPress plugin, support the latest version.</h2>
 <h4>Introduce</h4>
@@ -15,8 +8,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-klarna.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment klarna in the plugin menu.</li>
+    <li>Upload the Oceanpayment-Affirm.zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment Affirm in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -31,7 +24,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>Klarna</td>
+    <td>Affirm</td>
   </tr>
   <tr>
     <td>Description</td>
