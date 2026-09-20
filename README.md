@@ -9,8 +9,8 @@ WordPress is a website creation tool and content management system based on the 
 </ul>
 <h4>Plug-in installation</h4>
 <ol>
-    <li>Upload the Oceanpayment-Clearpay.zip plug-in in the WordPrwss background.</li>
-    <li>Activate oceanpayment Clearpay in the plugin menu.</li>
+    <li>Upload the Oceanpayment-creditcard(one-page).zip plug-in in the WordPrwss background.</li>
+    <li>Activate oceanpayment credit card in the plugin menu.</li>
     <li>Click on woocommerce and select payment settings.</li>
     <li>Fill in the configuration information.</li>
 </ol>
@@ -25,7 +25,7 @@ WordPress is a website creation tool and content management system based on the 
   </tr>
   <tr>
     <td>Title</td>
-    <td>Clearpay</td>
+    <td>Credit/Debit Card</td>
   </tr>
   <tr>
     <td>Description</td>
@@ -44,14 +44,26 @@ WordPress is a website creation tool and content management system based on the 
     <td>Provide by Oceanpayment technical support.</td>
   </tr>
   <tr>
+    <td>Public Key</td>
+    <td>Provide by Oceanpayment technical support.</td>
+  </tr>
+  <tr>
     <td>Submiturl</td>
     <td>Production:production environment;Sandbox:Test environment.</td>
   </tr>
   <tr>
-    <td>Pay page Mode</td>
-    <td>Redirect:Redirect to open payment page;iframe:iframe payment page.</td>
+    <td>SSL</td>
+    <td>https/http, default https.</td>
   </tr>
-    <tr>
+  <tr>
+    <td>Payment Language</td>
+    <td>Supports 24 payment languages, default English (en_US).</td>
+  </tr>
+  <tr>
+    <td>Payment Logos</td>
+    <td>Enable VISA,Mastercard,Maestro,JCB,American Express,VISA(Electron),Diners Club,Discover,UnionPay payment logo.</td>
+  </tr>
+  <tr>
     <td>Write The Logs</td>
     <td>True/False.</td>
   </tr>
